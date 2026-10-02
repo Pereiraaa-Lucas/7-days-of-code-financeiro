@@ -1,30 +1,23 @@
-# 💰 7 Days of Code — App de Controle Financeiro
-Repositório oficial do desafio **7 Days of Code**. 
-Ao longo de 7 dias, o objetivo é construir, na prática, utilizando Inteligência Artificial e a ferramenta **Lovable**, um **App de Controle Financeiro** completo voltado para pequenos negócios e autônomos. No final, o projeto estará publicado e pronto para o portfólio.
----
-## ⚙️ Como funciona
-Cada dia do desafio possui sua própria branch contendo:
-* **Conceito do dia** — A explicação do que você vai aprender.
-* **Desafio do dia** — O enunciado e o prompt sugerido para usar no Lovable.
-* **Saída esperada** — O resultado visual e funcional esperado ao final do dia.
-* **Exercício opcional** — Um extra para ir além (quando houver).
-* **Dica** — Um direcionamento extra para ajudar no desafio.
----
-## 🗓️ Trilha Completa
+# 🚀 Dia 01/7 — Criando seu app com IA
 
-| Dia | Tema | Link da Branch |
-| :--- | :--- | :--- |
-| **Dia 01** | 🚀 Criando seu app com IA | `dia-01` |
-| **Dia 02** | 💰 Registrando suas transações | `dia-02` |
-| **Dia 03** | 📋 Criando seu extrato e exportando | `dia-03` |
-| **Dia 04** | 🔍 Adicionando filtros | `dia-04` |
-| **Dia 05** | 📊 Resumo financeiro automático | `dia-05` |
-| **Dia 06** | 📈 Visualizando o fluxo de caixa | `dia-06` |
-| **Dia 07** | 🏁 Finalizando e publicando | `dia-07` |
+## 💡 Conceito do dia
+No Lovable, você não escreve código linha por linha: você **descreve o que quer** em um prompt, e a IA gera a interface para você. Quanto mais claro e específico for o seu prompt (o que a tela deve ter, qual o objetivo, qual o estilo visual), melhor será o resultado gerado.
 
----
-## 🛠️ Pré-requisitos
-* Conta gratuita no **Lovable**
-* Criatividade lá
-* Vontade de aprender construindo! 🚀
----
+## 🎯 Desafio do dia
+1. Acesse [lovable.dev](https://lovable.dev) e crie uma conta gratuita (se ainda não tiver).
+2. Crie um novo projeto.
+3. No campo de prompt, descreva a tela inicial do seu app financeiro.
+
+**Exemplo de prompt sugerido:**
+> *Crie a tela inicial de um aplicativo de controle financeiro para pequenos negócios e autônomos. A tela deve ter um título chamativo, uma breve descrição do que o app faz, e um botão "Começar agora". Use um design limpo e profissional.*
+
+4. Veja o resultado gerado pela IA e ajuste o prompt até ficar com uma cara que você goste (cores, textos, estilo).
+
+## 👀 Saída esperada
+Ao final, você deve ter uma tela inicial visível no preview do Lovable, com título, descrição curta e um botão "Começar agora" funcionando visualmente.
+
+## 🏋️ Exercício opcional
+Peça à IA para criar duas versões diferentes de título/descrição para a tela inicial, e escolha a que você achar mais convincente.
+
+## 💡 Dica
+Não se preocupe em acertar de primeira. Ajustar o prompt e pedir refinamentos é parte do processo, isso também é aprender a "programar" com IA.
