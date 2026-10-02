@@ -1,23 +1,20 @@
-# 🚀 Dia 01/7 — Criando seu app com IA
+# 💰 Dia 02/7 — Registrando suas transações
 
 ## 💡 Conceito do dia
-No Lovable, você não escreve código linha por linha: você **descreve o que quer** em um prompt, e a IA gera a interface para você. Quanto mais claro e específico for o seu prompt (o que a tela deve ter, qual o objetivo, qual o estilo visual), melhor será o resultado gerado.
+Um **formulário** é a porta de entrada dos dados no seu app, é onde a pessoa usuária informa valores, escolhe categorias e registra informações. No Lovable, você descreve os campos que quer, e a IA monta a interface do formulário para você.
 
 ## 🎯 Desafio do dia
-1. Acesse [lovable.dev](https://lovable.dev) e crie uma conta gratuita (se ainda não tiver).
-2. Crie um novo projeto.
-3. No campo de prompt, descreva a tela inicial do seu app financeiro.
+1. Volte ao seu projeto no Lovable.
+2. No campo de prompt, peça a criação de uma tela/formulário de nova transação.
 
 **Exemplo de prompt sugerido:**
-> *Crie a tela inicial de um aplicativo de controle financeiro para pequenos negócios e autônomos. A tela deve ter um título chamativo, uma breve descrição do que o app faz, e um botão "Começar agora". Use um design limpo e profissional.*
+> *Crie uma tela de cadastro de transação financeira, com os campos: valor, tipo (receita ou despesa), categoria (ex: vendas, aluguel, fornecedores, marketing) e data. Inclua um botão para salvar a transação.*
 
-4. Veja o resultado gerado pela IA e ajuste o prompt até ficar com uma cara que você goste (cores, textos, estilo).
+3. Teste preencher o formulário com uma transação de exemplo e veja se ele funciona corretamente.
+4. Se quiser, peça para a IA ajustar o visual do formulário para combinar com a tela inicial que você já criou.
 
 ## 👀 Saída esperada
-Ao final, você deve ter uma tela inicial visível no preview do Lovable, com título, descrição curta e um botão "Começar agora" funcionando visualmente.
+Você deve conseguir preencher valor, tipo, categoria e data no formulário, clicar em salvar, e ver que a ação é reconhecida pelo app (mesmo que ainda não fique salva permanentemente).
 
-## 🏋️ Exercício opcional
-Peça à IA para criar duas versões diferentes de título/descrição para a tela inicial, e escolha a que você achar mais convincente.
-
-## 💡 Dica
-Não se preocupe em acertar de primeira. Ajustar o prompt e pedir refinamentos é parte do processo, isso também é aprender a "programar" com IA.
+## 🧑🏻‍💻 Exercício opcional
+Peça para a IA adicionar uma validação simples, tipo *"o campo valor não pode ficar vazio"*.
