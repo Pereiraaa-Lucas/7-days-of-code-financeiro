@@ -1,20 +1,20 @@
-# 🔍 Dia 04/7 — Adicionando filtros
+# 📊 Dia 05/7 — Resumo financeiro automático
 
 ## 💡 Conceito do dia
-**Filtros** permitem que a pessoa usuária veja apenas o que interessa em um determinado momento, sem precisar rolar a lista inteira. É uma das funcionalidades que mais aumentam a usabilidade de um app com muitos dados.
+Fazer **cálculos automáticos** com base em dados já cadastrados é uma das funcionalidades que mais agregam valor a um app. Aqui, você vai pedir para a IA somar os valores das transações e exibir o resultado em destaque.
 
 ## 🎯 Desafio do dia
 1. Volte ao seu projeto no Lovable.
-2. No campo de prompt, peça a criação de filtros para o extrato.
+2. No campo de prompt, peça a criação de um resumo com os totais calculados automaticamente.
 
 **Exemplo de prompt sugerido:**
-> *Adicione filtros na tela de extrato: um filtro por tipo (receita ou despesa) e um filtro por categoria. Os filtros devem atualizar a lista exibida automaticamente, sem precisar recarregar a página.*
+> *Crie uma seção de resumo financeiro no topo do app, mostrando três cartões: "Total de Receitas", "Total de Despesas" e "Saldo Final". Os valores devem ser calculados automaticamente com base nas transações cadastradas.*
 
-3. Teste os filtros: cadastre transações de categorias diferentes (se ainda não tiver) e veja se a lista realmente atualiza quando você filtra.
-4. Se algo não funcionar como esperado, descreva o problema para a IA e peça o ajuste.
+3. Cadastre algumas transações (se ainda não tiver o suficiente) e confira se os totais estão calculando corretamente.
+4. Observe o visual dos cartões — peça ajustes de cor ou destaque se quiser.
 
 ## 👀 Saída esperada
-Ao selecionar um filtro (ex: "despesa" ou uma categoria específica), a lista de transações deve atualizar na hora, mostrando só os itens correspondentes.
+Os três cartões devem exibir valores corretos, refletindo a soma das transações cadastradas (ex: Receitas: R$ 1.000 | Despesas: R$ 400 | Saldo: R$ 600).
 
 ## 🧑🏻‍💻 Exercício opcional
-Peça também um filtro por período (ex: "últimos 7 dias" ou "este mês").
+Peça para a IA deixar o cartão de "Saldo Final" com destaque visual maior que os outros dois, e mudar de cor conforme o saldo for positivo (verde) ou negativo (vermelho).
