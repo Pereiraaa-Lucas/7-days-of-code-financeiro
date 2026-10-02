@@ -16,7 +16,7 @@ No Lovable, você não escreve código linha por linha: você **descreve o que q
 ## 👀 Saída esperada
 Ao final, você deve ter uma tela inicial visível no preview do Lovable, com título, descrição curta e um botão "Começar agora" funcionando visualmente.
 
-## 🏋️ Exercício opcional
+## 🧑🏻‍💻 Exercício opcional
 Peça à IA para criar duas versões diferentes de título/descrição para a tela inicial, e escolha a que você achar mais convincente.
 
 ## 💡 Dica
