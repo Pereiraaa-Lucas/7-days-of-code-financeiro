@@ -1,23 +1,20 @@
-# 📋 Dia 03/7 — Criando seu extrato e exportando
+# 🔍 Dia 04/7 — Adicionando filtros
 
 ## 💡 Conceito do dia
-Exibir dados em **lista** ou **tabela** é uma das tarefas mais comuns em qualquer aplicativo. Além de mostrar as informações, é possível usar cores e formatação para deixar a leitura mais rápida e intuitiva, como destacar receitas e despesas com cores diferentes.
+**Filtros** permitem que a pessoa usuária veja apenas o que interessa em um determinado momento, sem precisar rolar a lista inteira. É uma das funcionalidades que mais aumentam a usabilidade de um app com muitos dados.
 
 ## 🎯 Desafio do dia
 1. Volte ao seu projeto no Lovable.
-2. No campo de prompt, peça a criação de uma lista/tabela com as transações cadastradas.
+2. No campo de prompt, peça a criação de filtros para o extrato.
 
 **Exemplo de prompt sugerido:**
-> *Crie uma tela de extrato que exiba em formato de lista ou tabela todas as transações cadastradas, mostrando: data, categoria, tipo (receita ou despesa) e valor. Destaque receitas em verde e despesas em vermelho. Crie também um botão no qual será possível exportar em arquivo no formato `.csv` os dados.*
+> *Adicione filtros na tela de extrato: um filtro por tipo (receita ou despesa) e um filtro por categoria. Os filtros devem atualizar a lista exibida automaticamente, sem precisar recarregar a página.*
 
-3. Cadastre 3 ou 4 transações de exemplo (algumas receitas, algumas despesas) para ver a listagem funcionando com dados reais.
-4. Observe como ficou a organização visual — peça ajustes se algo estiver confuso ou desalinhado.
+3. Teste os filtros: cadastre transações de categorias diferentes (se ainda não tiver) e veja se a lista realmente atualiza quando você filtra.
+4. Se algo não funcionar como esperado, descreva o problema para a IA e peça o ajuste.
 
 ## 👀 Saída esperada
-Ao cadastrar transações de exemplo, elas devem aparecer na tela de extrato, com receitas em verde e despesas em vermelho. E um botão para baixar sua planilha.
+Ao selecionar um filtro (ex: "despesa" ou uma categoria específica), a lista de transações deve atualizar na hora, mostrando só os itens correspondentes.
 
 ## 🧑🏻‍💻 Exercício opcional
-Peça para a IA ordenar a lista da transação mais recente para a mais antiga.
-
-## 💡 Dica
-Pequenos detalhes visuais, como cores e ordenação, fazem o app parecer um "produto de verdade". Posicione o botão de exportação do Extrato de forma estratégica.
+Peça também um filtro por período (ex: "últimos 7 dias" ou "este mês").
