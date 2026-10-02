@@ -1,20 +1,20 @@
-# 📊 Dia 05/7 — Resumo financeiro automático
+# 📈 Dia 06/7 — Visualizando o fluxo de caixa
 
 ## 💡 Conceito do dia
-Fazer **cálculos automáticos** com base em dados já cadastrados é uma das funcionalidades que mais agregam valor a um app. Aqui, você vai pedir para a IA somar os valores das transações e exibir o resultado em destaque.
+**Gráficos** são uma forma de transformar dados em algo fácil de interpretar visualmente. No Lovable, você pode pedir diferentes tipos de gráfico (barras, linhas, pizza) descrevendo o que quer comparar.
 
 ## 🎯 Desafio do dia
 1. Volte ao seu projeto no Lovable.
-2. No campo de prompt, peça a criação de um resumo com os totais calculados automaticamente.
+2. No campo de prompt, peça a criação de um gráfico comparando entradas e saídas.
 
 **Exemplo de prompt sugerido:**
-> *Crie uma seção de resumo financeiro no topo do app, mostrando três cartões: "Total de Receitas", "Total de Despesas" e "Saldo Final". Os valores devem ser calculados automaticamente com base nas transações cadastradas.*
+> *Crie um gráfico de barras comparando o total de receitas e o total de despesas, com base nas transações cadastradas. Adicione um título ao gráfico e cores diferentes para receitas e despesas.*
 
-3. Cadastre algumas transações (se ainda não tiver o suficiente) e confira se os totais estão calculando corretamente.
-4. Observe o visual dos cartões — peça ajustes de cor ou destaque se quiser.
+3. Veja como o gráfico ficou posicionado na tela — se necessário, peça para reorganizar o layout.
+4. Teste cadastrar mais uma ou duas transações e veja se o gráfico atualiza automaticamente.
 
 ## 👀 Saída esperada
-Os três cartões devem exibir valores corretos, refletindo a soma das transações cadastradas (ex: Receitas: R$ 1.000 | Despesas: R$ 400 | Saldo: R$ 600).
+O gráfico deve exibir duas barras (ou elementos visuais) comparando receitas e despesas, refletindo os valores das transações cadastradas.
 
 ## 🧑🏻‍💻 Exercício opcional
-Peça para a IA deixar o cartão de "Saldo Final" com destaque visual maior que os outros dois, e mudar de cor conforme o saldo for positivo (verde) ou negativo (vermelho).
+Peça um gráfico por categoria, mostrando quanto foi gasto em cada uma.
