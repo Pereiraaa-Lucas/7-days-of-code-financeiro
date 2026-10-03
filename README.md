@@ -1,30 +1,20 @@
-# 💰 7 Days of Code — App de Controle Financeiro
-Repositório oficial do desafio **7 Days of Code**. 
-Ao longo de 7 dias, o objetivo é construir, na prática, utilizando Inteligência Artificial e a ferramenta **Lovable**, um **App de Controle Financeiro** completo voltado para pequenos negócios e autônomos. No final, o projeto estará publicado e pronto para o portfólio.
----
-## ⚙️ Como funciona
-Cada dia do desafio possui sua própria branch contendo:
-* **Conceito do dia** — A explicação do que você vai aprender.
-* **Desafio do dia** — O enunciado e o prompt sugerido para usar no Lovable.
-* **Saída esperada** — O resultado visual e funcional esperado ao final do dia.
-* **Exercício opcional** — Um extra para ir além (quando houver).
-* **Dica** — Um direcionamento extra para ajudar no desafio.
----
-## 🗓️ Trilha Completa
+# 📈 Dia 06/7 — Visualizando o fluxo de caixa
 
-| Dia | Tema | Link da Branch |
-| :--- | :--- | :--- |
-| **Dia 01** | 🚀 Criando seu app com IA | `dia-01` |
-| **Dia 02** | 💰 Registrando suas transações | `dia-02` |
-| **Dia 03** | 📋 Criando seu extrato e exportando | `dia-03` |
-| **Dia 04** | 🔍 Adicionando filtros | `dia-04` |
-| **Dia 05** | 📊 Resumo financeiro automático | `dia-05` |
-| **Dia 06** | 📈 Visualizando o fluxo de caixa | `dia-06` |
-| **Dia 07** | 🏁 Finalizando e publicando | `dia-07` |
+## 💡 Conceito do dia
+**Gráficos** são uma forma de transformar dados em algo fácil de interpretar visualmente. No Lovable, você pode pedir diferentes tipos de gráfico (barras, linhas, pizza) descrevendo o que quer comparar.
 
----
-## 🛠️ Pré-requisitos
-* Conta gratuita no **Lovable**
-* Criatividade lá
-* Vontade de aprender construindo! 🚀
----
+## 🎯 Desafio do dia
+1. Volte ao seu projeto no Lovable.
+2. No campo de prompt, peça a criação de um gráfico comparando entradas e saídas.
+
+**Exemplo de prompt sugerido:**
+> *Crie um gráfico de barras comparando o total de receitas e o total de despesas, com base nas transações cadastradas. Adicione um título ao gráfico e cores diferentes para receitas e despesas.*
+
+3. Veja como o gráfico ficou posicionado na tela — se necessário, peça para reorganizar o layout.
+4. Teste cadastrar mais uma ou duas transações e veja se o gráfico atualiza automaticamente.
+
+## 👀 Saída esperada
+O gráfico deve exibir duas barras (ou elementos visuais) comparando receitas e despesas, refletindo os valores das transações cadastradas.
+
+## 🧑🏻‍💻 Exercício opcional
+Peça um gráfico por categoria, mostrando quanto foi gasto em cada uma.
